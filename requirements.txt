@@ -1,0 +1,41 @@
+absl-py @ file:///tmp/build/80754af9/absl-py_1607439979954/work
+astor==0.8.1
+captcha==0.3
+certifi==2020.12.5
+cleverhans==3.0.1
+cloudpickle==1.6.0
+cycler==0.10.0
+decorator==4.4.2
+dm-tree==0.1.5
+gast @ file:///tmp/build/80754af9/gast_1597433534803/work
+grpcio @ file:///opt/concourse/worker/volumes/live/b5e6cc9f-d048-411b-5e0a-34cf579ea9aa/volume/grpcio_1597424489035/work
+h5py @ file:///opt/concourse/worker/volumes/live/98bee3fd-2687-4017-5421-d742d1f18c35/volume/h5py_1593454156895/work
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+Keras==2.3.1
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing==1.1.0
+kiwisolver==1.3.1
+Markdown @ file:///opt/concourse/worker/volumes/live/ab9d027b-aa96-4f3e-4a67-57db8504e6b6/volume/markdown_1605111065503/work
+matplotlib==3.3.3
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+mnist==0.2.2
+nose==1.3.7
+numpy @ file:///opt/concourse/worker/volumes/live/a1b5ea96-b05c-40ba-5dfb-4542ece1c186/volume/numpy_and_numpy_base_1603491228242/work
+Pillow==8.1.0
+protobuf==3.13.0
+pycodestyle==2.6.0
+pyparsing==2.4.7
+python-dateutil==2.8.1
+PyYAML==5.3.1
+scipy @ file:///opt/concourse/worker/volumes/live/9698578f-91da-4d5f-6fce-b26b1f42eb5a/volume/scipy_1597686637948/work
+six @ file:///opt/concourse/worker/volumes/live/f983ba11-c9fe-4dff-7ce7-d89b95b09771/volume/six_1605205318156/work
+tensorboard==1.14.0
+tensorflow==1.14.0
+tensorflow-estimator==1.14.0
+tensorflow-probability==0.12.1
+termcolor==1.1.0
+Werkzeug==1.0.1
+wrapt==1.12.1
+zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
